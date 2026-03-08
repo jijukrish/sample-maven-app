@@ -2,21 +2,21 @@ pipeline{
   node any
   stages{
      stage("Prepare"){
-       step{
+       steps{
          script{
            echo "Preare stage"
          }
        }
      }
     stage("Build"){
-       step{
+       steps{
          script{
            echo "Build stage"
          }
        }
      }
     stage("Unit test"){
-       step{
+       steps{
          script{
            echo "UNit test stage"
          }
