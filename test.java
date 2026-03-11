@@ -10,4 +10,6 @@ String apiKey = "-----BEGIN PRIVATE KEY-----45656757fhgjoowewo"
       System.err.println("MY_API_KEY1 environment variable not set!");
       // Handle error appropriately
   }
+  username="test-user"
+  userpass="123455"
 }
