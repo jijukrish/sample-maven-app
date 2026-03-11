@@ -1,11 +1,11 @@
 public static void main(){
   String MY_API_KEY="ferett565656565wewrwer"
-String apiKey = "-----BEGIN PRIVATE KEY-----45656757fhgjoowewo"
+String apiKey = "ghp_A1b2C3d4E5f6G7h8I9j0K1l2M3n4O5p6Q7r8S9t045656757fhgjoowewo"
   if (apiKey == null) {
       System.err.println("MY_API_KEY environment variable not set!");
       // Handle error appropriately
   }
-  String apiKey1 = "-----BEGIN PRIVATE KEY-----45656757fhgjoowewotest"
+  String apiKey1 = "ghp_A1b2C3d4E5f6G7h8I9j0K1l2M3n4O5p6Q7r8S9t045656757fhgjoowewotest"
   if (apiKey1 == null) {
       System.err.println("MY_API_KEY1 environment variable not set!");
       // Handle error appropriately
