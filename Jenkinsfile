@@ -1,10 +1,10 @@
 pipeline{
   agent any
   stages{
-     stage("Prepare"){
+     stage("Prepare1"){
        steps{
          script{
-           echo "Preare stage"
+           echo "Preare stage1"
          }
        }
      }
