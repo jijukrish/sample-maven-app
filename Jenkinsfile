@@ -15,10 +15,10 @@ pipeline{
          }
        }
      }
-    stage("Unit test"){
+    stage("Unit1 test"){
        steps{
          script{
-           echo "UNit test stage"
+           echo "UNit2 test stage"
          }
        }
      }
