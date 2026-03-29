@@ -8,10 +8,10 @@ pipeline{
          }
        }
      }
-    stage("Build"){
+    stage("Build1"){
        steps{
          script{
-           echo "Build stage"
+           echo "Build1 stage"
          }
        }
      }
