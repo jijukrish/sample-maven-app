@@ -4,7 +4,7 @@ pipeline{
      stage("Prepare1"){
        steps{
          script{
-           echo "Preare stage1"
+           echo "Prepare stage1"
          }
        }
      }
